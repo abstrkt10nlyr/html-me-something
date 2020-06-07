@@ -13,7 +13,7 @@ h1, h2, h3 {
 	margin: 2%;
 }
 
-header h1 {
+#mainTitle {
     text-align: center;
 }
 
@@ -37,6 +37,6 @@ figcaption {
     font-style: italic;
 }
 
-ul {
+.sizes-list {
     padding-left: 5%;
 }
